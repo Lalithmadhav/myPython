@@ -20,6 +20,18 @@
 # height = 1.7 #meters
 # print(height, type(height))
 
-# Data Type: List ()
-myList = ["Mango", False, 8, 7.8, [10]]
-print(myList, type(myList))
+# # Data Type: List ()
+# myList = ["Mango", False, 8, 7.8, [10]]
+# print(myList, type(myList))
+
+"""
+Exercise - Kika The Snake
+"""
+name = 'Kika'                   # str
+color = "Green"                 # str
+haveFriends = True              # bool
+friends = 2                     # int
+length = 2.5                    # float
+frindsName = ["Oli", 'Bob']     #list
+
+#Learnt from : https://www.youtube.com/watch?v=IR70xDVZbdA
